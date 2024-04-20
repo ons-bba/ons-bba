@@ -17,6 +17,7 @@
 Enjoy some art !!!! :art: :art: :art: 👩‍🎨 
 
 <img src="https://github.com/ons-bba/ons-bba/blob/main/20200324_102106.jpg" width="500">
+<img src="https://github.com/ons-bba/ons-bba/blob/main/91355170_382790326010845_4498565582102200320_n.jpg" width="500">
 
 
 
