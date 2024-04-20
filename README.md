@@ -1,7 +1,7 @@
-<img src="https://github.com/ons-bba/ons-bba/blob/main/image%20(2).png" width="350">
+<img dir='rtl' align='right' src="https://github.com/ons-bba/ons-bba/blob/main/Meriah.jpg" width="350">
 
 
-###  <h1>Welcome on my professional profile page there </h1>
+###  <h1>Welcome to my professional profile page </h1>
 
   
 
