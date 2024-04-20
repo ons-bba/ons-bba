@@ -1,3 +1,6 @@
+![Image](https://github.com/ons-bba/ons-bba/blob/main/image%20(2).png){:width="350px"}
+
+
 ### Welcome on my professional profile page there 
 
   
