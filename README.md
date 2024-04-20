@@ -1,7 +1,6 @@
 ### Welcome on my professional profile page there 
 
-
-![Uploading image (2).png…]()
+  
 
 
 
